@@ -14,4 +14,4 @@
 ---
 
 ## 📜 Licence
-This project is posted solely for my personal portfolio. You may use it for personal purposes, but please credit the author when copying/publishing - **MrSix559**.
+This project is posted solely for my personal portfolio. You may use it for personal purposes, but please credit the author when copying/publishing - [MrSix559](https://github.com/MrSix559);
