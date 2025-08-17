@@ -10,6 +10,7 @@
 - **Prime Tween** — for animations
 - **Encrypted data storage** via `EncryptedPlayerPrefs`
 - **Object pool** — for optimised chunk spawning
+- **Naughty Attributes** — for a beautiful inspector
 
 ---
 
